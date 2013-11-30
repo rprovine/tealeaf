@@ -1,4 +1,5 @@
 puts "Please enter some words and I will sort them for you:"
+
 words = []
 
 while true
