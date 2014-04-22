@@ -1,11 +1,6 @@
 require 'rubygems'
 require 'pry'
 
-# Object Oriented Blackjack game
-
-# 1) Abstraction
-# 2) Encapsulation
-
 class Card
   attr_accessor :suit, :face_value
 
